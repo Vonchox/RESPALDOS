@@ -1,0 +1,4 @@
+C:\TDM-GCC-32\bin\g++.exe main.cpp -o main.exe -std=c++17 -L"C:\TDM-GCC-32\lib" -L"C:\TDM-GCC-32\mingw32\lib" -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+
+
+Yo uso ese, cámbienlo dependiendo del compilador que usen, para que les funcione la parte gráfica :D
